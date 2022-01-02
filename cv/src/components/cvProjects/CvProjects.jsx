@@ -55,7 +55,6 @@ const Projects = () => {
     return (
         <>
         <div className='projects-container' >
-
             <h2 style={{textAlign:'center', paddingTop:'100px'}}>Projects</h2>
             <Container  style={{padding: '50px'}}>
                 <div className='searchInputArea'>
